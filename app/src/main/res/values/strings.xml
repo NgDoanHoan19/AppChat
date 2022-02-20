@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">chatApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <!--activity_register-->
+    <string name="createanewaccount">Create a new account</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+
+    <string name="allfieldarerequired">All field are required</string>  <!--dùng cho cả login-->
+    <string name="passwordmustbeatleast6character">Password must be at least 6 character</string>
+    <!--end activity_register-->
+
+    <!--activity_start-->
+    <string name="chatapp">Chat App</string>
+    <string name="login">Login</string>
+    <!-- <string name="register" translatable="false">Register</string> --><!--trùng vs register-->
+    <!--end activity start-->
+
+    <!--login-->
+    <string name="authenticationfailed">Authentication failed</string>
+    <string name="forgotyoupassword">Forgot you password?</string>
+    <!--end login-->
+    <!--main-->
+    <string name="chats">Chats</string>
+    <string name="users">Users</string>
+    <string name="profile">Profile</string>
+
+    <!--end main-->
+    <!--message-->
+    <string name="typeamessage">Type a message ...</string>
+    <string name="youcantsendemptymessage">You can"'"t send empty message</string>
+    <string name="newmessage">New Message</string>
+    <string name="failed">Failed!</string>
+    <!--end message-->
+
+    <!--chat item left-->
+    <string name="hello">Hello</string>
+    <!--end chat item left-->
+
+    <!--menu xml-->
+    <string name="logout">Logout</string>
+    <!--end menu xml-->
+
+    <!--reset password-->
+    <string name="yourmail">Your Email</string>
+    <string name="reset">Reset</string>
+    <string name="youwillreceiveanemailtoresetyoupassword">You will receive an email to reset you password</string>
+    <string name="resetpassword">Reset Password</string>
+    <string name="pleasecheckyouemail">Please check you Email</string>
+    <!--end reset password-->
+    <!--profile fragment-->
+    <string name="uploading">Uploading</string>
+    <string name="noimageselected">No image selected</string>
+    <string name="uploadinprogress">Upload in progress</string>
+    <!--end profile fragmant-->
+
+    <!--fragment user-->
+    <string name="search">Search...</string>
+    <!--end frament user-->
+</resources>

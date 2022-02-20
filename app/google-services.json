@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "115904190420",
+    "project_id": "chatapp-3b77e",
+    "storage_bucket": "chatapp-3b77e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115904190420:android:d8ae82c38ef29f216da841",
+        "android_client_info": {
+          "package_name": "com.android.bignerdranch.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115904190420-kau9rikmr0uks6tr8g3vd8gnlkd9794i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoOgLaiLzbptPBdswNQCarYZyJHPgHxTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115904190420-kau9rikmr0uks6tr8g3vd8gnlkd9794i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

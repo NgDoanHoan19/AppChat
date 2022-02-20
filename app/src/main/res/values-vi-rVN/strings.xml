@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">chatApp</string>
+    <string name="createanewaccount" >Tạo tài khoản mới</string>
+    <string name="username" >Tài khoản</string>
+    <string name="email">Email</string>
+    <string name="password" >Mật khẩu</string>
+    <string name="register" >Đăng ký</string>
+    <string name="chatapp" >Ứng dụng trò chuyện</string>
+    <string name="login" >Đăng nhập</string>
+    <string name="allfieldarerequired">Không được để trống</string>
+    <string name="passwordmustbeatleast6character">Mật khẩu phải chứa ít nhất 6 ký tự</string>
+    <string name="authenticationfailed">Quá trình xác thực thất bại</string>
+    <string name="chats">Trò chuyện</string>
+    <string name="users">Người dùng</string>
+    <string name="typeamessage">Nhập tin nhắn ...</string>
+    <string name="youcantsendemptymessage">Không được để trống tin nhắn</string>
+    <string name="hello">Xin chào</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="forgotyoupassword">Quên mật khẩu ?</string>
+    <string name="profile">Thông tin</string>
+    <string name="newmessage">Tin nhắn mới</string>
+    <string name="failed">Thất bại!</string>
+    <string name="yourmail">Email của bạn</string>
+    <string name="reset">Thiết lập lại</string>
+    <string name="youwillreceiveanemailtoresetyoupassword">Bạn sẽ nhận email để bạn thiết lập lại mật khẩu</string>
+    <string name="resetpassword">Thiết lập lại mật khẩu</string>
+    <string name="pleasecheckyouemail">"Vui lòng kiểm tra Email "</string>
+    <string name="uploading">Đang tải</string>
+    <string name="noimageselected">Không có ảnh được chọn</string>
+    <string name="uploadinprogress">Xử lý tải lên</string>
+    <string name="search">Tìm kiếm ...</string>
+</resources>
